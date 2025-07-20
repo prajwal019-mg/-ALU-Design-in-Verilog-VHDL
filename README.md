@@ -18,4 +18,4 @@ The ALU supports:
 - ModelSim / Vivado / Icarus Verilog for simulation
 
 ## Author
-Your Name
+PRAJWAL
