@@ -1,0 +1,12 @@
+ALU-Design-CODTECH/
+│
+├── src/
+│   └── alu.v (or alu.vhdl)
+│
+├── testbench/
+│   └── alu_tb.v
+│
+├── reports/
+│   └── simulation_report.pdf
+│
+└── README.md
