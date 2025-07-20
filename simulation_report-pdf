@@ -1,0 +1,11 @@
+git clone https://github.com/your-username/ALU-Design-CODTECH.git
+cd ALU-Design-CODTECH
+
+# Add files
+cp /your/files/location/alu.v .
+cp /your/files/location/alu_tb.v .
+cp /your/files/location/simulation_report.pdf .
+
+git add .
+git commit -m "Added ALU design, testbench, and simulation report"
+git push
